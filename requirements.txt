@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+numpy
+pandas
+pydantic
+httpx
+python-multipart
+xgboost
+scikit-learn
+# Optional GIS packages (requires brew install gdal geos proj if installing from source):
+# scipy
+# rasterio
+# shapely
+# pyproj
